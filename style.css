@@ -8,3 +8,13 @@ body {
     background: rgb(195,126,34);
 background: linear-gradient(0deg, rgba(195,126,34,1) 12%, rgba(255,0,0,0.9864320728291317) 100%);
 }
+header a {
+    color: black;
+    background-color: white;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px
+}
