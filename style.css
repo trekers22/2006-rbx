@@ -2,4 +2,6 @@ header {
     background-color: rgb(58, 140, 199);
     padding: 20px;
     border-radius: 10px;
+    background: rgb(195,126,34);
+background: linear-gradient(0deg, rgba(195,126,34,1) 12%, rgba(255,0,0,0.9864320728291317) 100%);
 }
